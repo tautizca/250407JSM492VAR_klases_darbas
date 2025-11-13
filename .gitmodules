@@ -1,0 +1,6 @@
+[submodule "web_server"]
+	path = web_server
+	url = https://github.com/tautiz/250407JSM492VAK_web_server
+[submodule "reacktas"]
+	path = reacktas
+	url = https://github.com/tautizca/250407JSM492VAR_frontend
