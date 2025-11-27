@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "68f66616c51501b86f4e2b92"
+  },
+  "slug": "skaitmenine-strategija-2025",
+  "title": "Kaip sukurti skaitmeninę strategiją 2025 metams",
+  "date": "2025-09-21",
+  "readTime": 6,
+  "excerpt": "Raktažodžiai, duomenų analizė ir lyderystė – trys sėkmingo strategijos plano atramos.",
+  "content": "<p>Skaitmeninė strategija šiandien nebėra tik papildomas dokumentas – tai verslo branduolys, kuris lemia greitį, lankstumą ir augimą.</p>\n<h2>1. Auditorijos pažinimas</h2>\n<p>Tiksli auditorijos segmentacija ir jos poreikių supratimas leidžia parinkti efektyviausius kanalus bei žinutes.</p>\n<h2>2. Duomenimis grįsti sprendimai</h2>\n<p>Investuokite į analitikos ekosistemą ir sukurkite aiškius <em>KPIs</em>, kurie atspindi realią vertę.</p>\n<blockquote>Strategija be matavimo – tik gražus norų sąrašas.</blockquote>",
+  "comments": [
+    {
+      "owner": "John Doe1",
+      "text": "Labai svarbus dokumentas!",
+      "date": "2025-09-21"
+    },
+    {
+      "owner": "Jane Doe2",
+      "text": "Labai svarbus dokumentas!",
+      "date": "2025-09-21"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68fa54dcc51501b86f4e2b94"
+  },
+  "slug": "emocinis-dizainas",
+  "title": "Emocinis dizainas: daugiau nei tik estetika",
+  "date": "2025-08-30",
+  "readTime": 4,
+  "excerpt": "Kodėl emocinis patyrimas turi reikšmę ir kaip jį panaudoti pritraukiant klientus.",
+  "content": "<p>Emocinė sąsaja didina lojalumą ir konversijas. Vartotojai prisimena ne ekranus, o <strong>jausmus</strong>.</p><h2>Prieinamumas</h2><p>Spalvų kontrastas, tipografija ir animacijos turi būti draugiškos visiems.</p>"
+},
+{
+  "_id": {
+    "$oid": "68fa54ebc51501b86f4e2b96"
+  },
+  "slug": "serverless-vidutiniam-verslui",
+  "title": "Serverless technologijos vidutinėms įmonėms",
+  "date": "2025-07-18",
+  "readTime": 5,
+  "excerpt": "Serverless architektūra leidžia optimizuoti kaštus ir didinti produkto lankstumą.",
+  "content": "<p>Serverless mažina infrastruktūros priežiūrą ir leidžia sutelkti dėmesį į vertę vartotojui.</p><ul><li>Mastelis pagal poreikį</li><li>Mokėjimas už faktinį naudojimą</li><li>Greitesnis MVP startas</li></ul>"
+},
+{
+  "_id": {
+    "$oid": "68fa54f2c51501b86f4e2b98"
+  },
+  "slug": "dirbtinis-intelektas-kurime",
+  "title": "Dirbtinis intelektas produkto kūrimo cikle",
+  "date": "2025-06-02",
+  "readTime": 7,
+  "excerpt": "AI įrankiai gali pagreitinti prototipų kūrimą ir suteikti vertingų įžvalgų.",
+  "content": "<p>AI gali automatizuoti rutiną, padėti generuoti idėjas ir prognozuoti paklausą.</p><pre><code>// Pseudokodas\nconst ideas = ai.generateIdeas({ domain: 'product' });\nprototype.build(ideas[0]);\n</code></pre>"
+},
+{
+  "_id": {
+    "$oid": "68ff9e2eeaef5e5a27f94bdd"
+  },
+  "slug": "testas",
+  "title": "testas",
+  "content": "testas"
+},
+{
+  "_id": {
+    "$oid": "68ff9e8feaef5e5a27f94bde"
+  },
+  "pavadiniamas": 15
+},
+{
+  "_id": {
+    "$oid": "68ffa35deaef5e5a27f94be1"
+  },
+  "slug": "asdfghj",
+  "nesamone": "asdfghj"
+},
+{
+  "_id": {
+    "$oid": "68ffa70deaef5e5a27f94be2"
+  },
+  "slug": 1
+},
+{
+  "_id": {
+    "$oid": "68ffa70deaef5e5a27f94be3"
+  },
+  "slug": 2
+},
+{
+  "_id": {
+    "$oid": "68ffa70deaef5e5a27f94be4"
+  },
+  "slug": 3
+}]
