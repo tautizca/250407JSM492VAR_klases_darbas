@@ -1,0 +1,36 @@
+services:
+  backendas:
+    container_name: api-backendas
+    image: node:lts-slim
+    working_dir: /app
+    ports:
+      - 81:80
+    volumes:
+      - ./web_server:/app
+    networks:
+      - manoProjektoTinklas
+    command: sh -c 'npm install && npm run dev'
+
+  fontendas:
+    image: node:lts-slim
+    working_dir: /app
+    ports:
+      - 80:3001
+    volumes:
+      - ./reacktas:/app
+    command: sh -c 'npm install && npm run dev -- --host'
+    networks:
+      - manoProjektoTinklas
+
+  mongodb:
+    image: mongodb/mongodb-community-server:8.0-ubi8
+    ports:
+      - 27018:27017
+    networks:
+      - manoProjektoTinklas
+    volumes:
+      - ./db_data:/data/db
+
+networks:
+  manoProjektoTinklas:
+    external: true
